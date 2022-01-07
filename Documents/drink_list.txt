@@ -1,0 +1,64 @@
+
+############################################################
+
+#T Gin
+
+############################################################
+
+#T Rum
+
+############################################################
+
+#N Daiquiri
+
+#I ingredient_list
+Bacardi White Rum	60		ml
+Lime		30		ml
+Rich syrup	10		ml
+#i
+
+#R recipe
+1. Add ingredients to shaker.
+2. Shake ingredients hard with ice.
+3. Double strain into a chilled cocktail or coup glass.
+#r
+
+############################################################
+
+#T Whiskey
+
+############################################################
+
+#N Old fashioned
+
+#I ingredient_list
+Bulleit Bourbon			60	ml
+Rich syrup		10	ml
+Angostura Bitters	5	ml
+#i
+
+#R recipe
+1. Add ingredients to stirring glass.
+2. Stir until desired dilution is achieved.
+3. Strain into a double rocks glass with a large ice cube.
+4. Garnish with a twist of orange
+#r
+
+##############################
+
+#N Sazerac
+
+#I ingredient_list
+Hein Cognac			50	ml
+Absinth			10	ml
+Rich syrup		5	ml
+Peychauds Bitters	5	ml
+#i
+
+#R recipe
+1. 
+2.
+3.
+#r
+
+##############################
